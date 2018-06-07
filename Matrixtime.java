@@ -25,7 +25,7 @@ public class Matrixtime {
 		}
 		
 		System.out.println("a= ");
-	    print(a);
+	    	print(a);
 		System.out.println("b= ");
 		print(b);
 		
